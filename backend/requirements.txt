@@ -1,0 +1,9 @@
+fastapi 
+uvicorn 
+python-multipart 
+moviepy 
+openai-whisper 
+transformers 
+sentencepiece 
+torch 
+ffmpeg-python
